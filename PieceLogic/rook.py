@@ -1,6 +1,5 @@
-from pieces.piece import Piece
-
-
+from PieceLogic.piece import Piece
+#Creates the Rook class, which inherits from Piece
 class Rook(Piece):
 
     def __init__(self, row, col, color, image=None):

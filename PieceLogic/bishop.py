@@ -1,5 +1,4 @@
-from pieces.piece import Piece
-
+from PieceLogic.piece import Piece
 
 class Bishop(Piece):
 
